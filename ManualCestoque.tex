@@ -1,0 +1,86 @@
+  
+\documentclass[letterpaper, 12 pt]{article}
+\usepackage{indentfirst}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[portuguese]{babel}
+\hypersetup{
+    colorlinks,
+    linktoc=all,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+
+\renewcommand{\contentsname}{Sumário}
+
+% -------------------------------------------------------------------------------------
+% BEGIN DOCUMENT
+% -------------------------------------------------------------------------------------
+\begin{document}
+\title{Manual de Utilização do Sistema de Controle de Estoque Bloco K}
+\author{Departamento de Tecnologia da Informação - CECRF}
+\maketitle
+\pagestyle{empty}
+\newpage
+
+
+% -------------------------------------------------------------------------------------
+% TABLE OF CONTENTS
+% -------------------------------------------------------------------------------------
+\tableofcontents
+\newpage
+
+% -------------------------------------------------------------------------------------
+% INTRODUCTION
+% -------------------------------------------------------------------------------------
+\section{Introdução}
+Sistema desenvolvido para controlar e rastrear os insumos recebidos pelo Centro de Radiofarmácia.
+\newpage
+
+
+\section{Acesso ao sistema}
+Para seu desenvolvimento, foi utilizado como navegador padrão o Google Chrome, mas o software pode ser utilizado 
+no Mozila Firefox e Microsoft Edge. Preferencialmente a indicação é o navegador do Google.
+\subsection{URL de acesso}
+Digite no navegador o seguinte endereço: http://10.0.4.7:8080/www
+\subsection{Login}
+A seguinte página, Fig. \ref{figura:login1}, deve abrir após o acesso pela URL. Uma vez logado, o sistema grava num token as credenciais (email e senha), onde fica armazenado por 24 horas, sendo desnecessário novo login neste espaço de tempo.
+O novo usuário deve se cadastrar clicando no botão registrar.  
+
+\begin{figure}[h]
+
+
+\centering % para centralizarmos a figura
+\includegraphics[width=5cm]{imagens/login1.PNG} % leia abaixo
+\caption{Tela inicial de login}
+\label{figura:login1}
+\end{figure}
+\newpage
+
+\subsection{Registrar - Novo Usuário}
+Na  Fig. \ref{figura:registrar1} temos o formulário de cadastro de um novo usuário. Os camopos com asterisco são obrigatórios, e o email inserido deve ser válido e será utilizado como login de acesso. 
+
+\begin{figure}[h]
+
+
+\centering % para centralizarmos a figura
+\includegraphics[width=10cm]{imagens/registrar1.PNG} % leia abaixo
+\caption{Registro de novo usuário}
+\label{figura:registrar1}
+\end{figure}
+
+\section{Software}
+
+% -------------------------------------------------------------------------------------
+% REFERENCES
+% -------------------------------------------------------------------------------------
+%\bibliography{}
+
+% -------------------------------------------------------------------------------------
+% END DOCUMENT
+% -------------------------------------------------------------------------------------
+\end{document}
