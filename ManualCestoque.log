@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.15)  15 MAR 2021 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.15)  16 MAR 2021 06:40
 entering extended mode
 **"D:/Manual Cestoque/ManualCestoque.tex"
 (D:/Manual Cestoque/ManualCestoque.tex
@@ -322,37 +322,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `ManualCestoque.toc'.
 
  [2] [3]
-<imagens/login1.PNG, id=51, 305.64188pt x 383.18156pt>
+<imagens/login1.PNG, id=63, 305.64188pt x 383.18156pt>
 File: imagens/login1.PNG Graphic file (type png)
 <use imagens/login1.PNG>
-Package pdftex.def Info: imagens/login1.PNG  used on input line 60.
+Package pdftex.def Info: imagens/login1.PNG  used on input line 56.
 (pdftex.def)             Requested size: 142.26378pt x 178.35298pt.
 
 [4 <./imagens/login1.PNG>]
-<imagens/registrar1.PNG, id=60, 691.08188pt x 330.48468pt>
+<imagens/registrar1.PNG, id=72, 691.08188pt x 330.48468pt>
 File: imagens/registrar1.PNG Graphic file (type png)
 <use imagens/registrar1.PNG>
-Package pdftex.def Info: imagens/registrar1.PNG  used on input line 73.
+Package pdftex.def Info: imagens/registrar1.PNG  used on input line 67.
 (pdftex.def)             Requested size: 284.52756pt x 136.06438pt.
- [5 <./imagens/registrar1.PNG>] (ManualCestoque.aux)
+<imagens/dashboard1.PNG, id=75, 928.21782pt x 480.29437pt>
+File: imagens/dashboard1.PNG Graphic file (type png)
+<use imagens/dashboard1.PNG>
+Package pdftex.def Info: imagens/dashboard1.PNG  used on input line 77.
+(pdftex.def)             Requested size: 256.07509pt x 113.80725pt.
+ [5 <./imagens/registrar1.PNG> <./imagens/dashboard1.PNG>]
+<imagens/menu1.PNG, id=85, 587.94656pt x 559.33969pt>
+File: imagens/menu1.PNG Graphic file (type png)
+<use imagens/menu1.PNG>
+Package pdftex.def Info: imagens/menu1.PNG  used on input line 103.
+(pdftex.def)             Requested size: 119.62372pt x 113.81102pt.
+ [6 <./imagens/menu1.PNG>] (ManualCestoque.aux)
 Package rerunfilecheck Info: File `ManualCestoque.out' has not changed.
-(rerunfilecheck)             Checksum: 0C4CC4433FD1C87DB03CE12EB51D5B84;632.
+(rerunfilecheck)             Checksum: 93D1AE5B70622592D6163E06F1905E3B;858.
  ) 
 Here is how much of TeX's memory you used:
- 8624 strings out of 479334
- 129782 string characters out of 2857084
- 439618 words of memory out of 3000000
- 25953 multiletter control sequences out of 15000+200000
- 408598 words of font info for 44 fonts, out of 3000000 for 9000
+ 8649 strings out of 479334
+ 130188 string characters out of 2857084
+ 441713 words of memory out of 3000000
+ 25970 multiletter control sequences out of 15000+200000
+ 408935 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,7n,74p,307b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr12.pfb><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb>
-Output written on ManualCestoque.pdf (5 pages, 75278 bytes).
+ 71i,7n,74p,394b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\htecm\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb>
+Output written on ManualCestoque.pdf (6 pages, 139744 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 77 words of extra memory for PDF output out of 10000 (max. 10000000)
 

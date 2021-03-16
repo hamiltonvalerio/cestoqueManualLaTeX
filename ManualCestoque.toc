@@ -4,3 +4,5 @@
 \contentsline {subsection}{\numberline {2.1}URL de acesso}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Login}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Registrar - Novo Usuário}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Software}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Menu do Software}{6}{subsection.3.1}%
