@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.15)  16 MAR 2021 06:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.15)  18 MAR 2021 09:47
 entering extended mode
 **"D:/Manual Cestoque/ManualCestoque.tex"
 (D:/Manual Cestoque/ManualCestoque.tex
@@ -322,49 +322,72 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `ManualCestoque.toc'.
 
  [2] [3]
-<imagens/login1.PNG, id=63, 305.64188pt x 383.18156pt>
+<imagens/login1.PNG, id=87, 274.02374pt x 360.59718pt>
 File: imagens/login1.PNG Graphic file (type png)
 <use imagens/login1.PNG>
 Package pdftex.def Info: imagens/login1.PNG  used on input line 56.
-(pdftex.def)             Requested size: 142.26378pt x 178.35298pt.
+(pdftex.def)             Requested size: 142.26378pt x 187.2145pt.
 
 [4 <./imagens/login1.PNG>]
-<imagens/registrar1.PNG, id=72, 691.08188pt x 330.48468pt>
+<imagens/registrar1.PNG, id=96, 691.08188pt x 330.48468pt>
 File: imagens/registrar1.PNG Graphic file (type png)
 <use imagens/registrar1.PNG>
 Package pdftex.def Info: imagens/registrar1.PNG  used on input line 67.
 (pdftex.def)             Requested size: 284.52756pt x 136.06438pt.
-<imagens/dashboard1.PNG, id=75, 928.21782pt x 480.29437pt>
+<imagens/recuperar1.PNG, id=98, 944.7797pt x 191.21437pt>
+File: imagens/recuperar1.PNG Graphic file (type png)
+<use imagens/recuperar1.PNG>
+Package pdftex.def Info: imagens/recuperar1.PNG  used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 57.58649pt.
+ [5 <./imagens/registrar1.PNG> <./imagens/recuperar1.PNG>]
+<imagens/dashboard1.PNG, id=109, 928.21782pt x 480.29437pt>
 File: imagens/dashboard1.PNG Graphic file (type png)
 <use imagens/dashboard1.PNG>
-Package pdftex.def Info: imagens/dashboard1.PNG  used on input line 77.
+Package pdftex.def Info: imagens/dashboard1.PNG  used on input line 88.
 (pdftex.def)             Requested size: 256.07509pt x 113.80725pt.
- [5 <./imagens/registrar1.PNG> <./imagens/dashboard1.PNG>]
-<imagens/menu1.PNG, id=85, 587.94656pt x 559.33969pt>
+ [6 <./imagens/dashboard1.PNG>]
+<imagens/menu1.PNG, id=118, 587.94656pt x 559.33969pt>
 File: imagens/menu1.PNG Graphic file (type png)
 <use imagens/menu1.PNG>
-Package pdftex.def Info: imagens/menu1.PNG  used on input line 103.
-(pdftex.def)             Requested size: 119.62372pt x 113.81102pt.
- [6 <./imagens/menu1.PNG>] (ManualCestoque.aux)
+Package pdftex.def Info: imagens/menu1.PNG  used on input line 114.
+(pdftex.def)             Requested size: 179.44455pt x 170.71652pt.
+ [7 <./imagens/menu1.PNG>]
+<imagens/insumo1.PNG, id=127, 961.34157pt x 277.78781pt>
+File: imagens/insumo1.PNG Graphic file (type png)
+<use imagens/insumo1.PNG>
+Package pdftex.def Info: imagens/insumo1.PNG  used on input line 131.
+(pdftex.def)             Requested size: 398.33858pt x 115.10599pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 131--132
+ [][] 
+ []
+
+<imagens/insumocadastro1.PNG, id=128, 534.49687pt x 545.03625pt>
+File: imagens/insumocadastro1.PNG Graphic file (type png)
+<use imagens/insumocadastro1.PNG>
+Package pdftex.def Info: imagens/insumocadastro1.PNG  used on input line 138.
+(pdftex.def)             Requested size: 223.21484pt x 227.62204pt.
+[8 <./imagens/insumo1.PNG> <./imagens/insumocadastro1.PNG>] (ManualCestoque.aux
+)
 Package rerunfilecheck Info: File `ManualCestoque.out' has not changed.
-(rerunfilecheck)             Checksum: 93D1AE5B70622592D6163E06F1905E3B;858.
+(rerunfilecheck)             Checksum: E91E8EBBD8C9DD28E160B40EC349C984;1325.
  ) 
 Here is how much of TeX's memory you used:
- 8649 strings out of 479334
- 130188 string characters out of 2857084
- 441713 words of memory out of 3000000
- 25970 multiletter control sequences out of 15000+200000
+ 8683 strings out of 479334
+ 130874 string characters out of 2857084
+ 442864 words of memory out of 3000000
+ 25992 multiletter control sequences out of 15000+200000
  408935 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,7n,74p,394b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,7n,74p,394b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\htecm\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb><C:/Users/htecm/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb>
-Output written on ManualCestoque.pdf (6 pages, 139744 bytes).
+Output written on ManualCestoque.pdf (8 pages, 205082 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 
